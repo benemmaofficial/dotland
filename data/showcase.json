@@ -1,4 +1,9 @@
 [
+    {
+    "image": "/images/showcase/fastvault-banner.png",
+    "title": "Fastvault",
+    "link": "https://www.fastvault.io"
+  },
   {
     "image": "/images/showcase/netlify.png",
     "title": "Netlify Edge Functions",
